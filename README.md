@@ -88,7 +88,8 @@ To write an assembly language program in 8086 to generate Sawtooth and Square wa
 ## Model Graph
 
 ## MODEL GRAPH FOR SAWTOOTH WAVE
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/864e01c9-ce61-475f-a00f-94921c4db3fd" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/84683df5-77c8-4274-9e7a-33bca9021265" />
+
 
 ## MODEL GRAPH FOR SQUARE WAVE
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/223f6b8f-7716-4e7e-8421-40c4939c9a2a" />
